@@ -24,10 +24,10 @@ const Navbar: FC = () => {
               <a className={s.link}>Clothes</a>
             </Link>
             <Link href="/">
-              <a className={s.link}>Accesories</a>
+              <a className={s.link}>Outdoor</a>
             </Link>
             <Link href="/">
-              <a className={s.link}>Home</a>
+              <a className={s.link}>Indoor</a>
             </Link>
           </nav>
           <div className="flex flex-1 justify-end space-x-8">
