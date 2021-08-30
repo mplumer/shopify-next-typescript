@@ -4,23 +4,23 @@
 
 <br />
 <p align="center">
-  <a href="https://not-disney-plus.web.app/">
-    <img src="/public/images/favicon.svg" alt="Logo" width="80" height="80">
+  <a href="https://shopify-next-typescript.vercel.app/">
+    <img src="public/shopify.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Disney+ Clone</h3>
+  <h3 align="center">Shopify - Next.js - Dev Store</h3>
 
   <p align="center">
-    Looks like Disney+ ...but its not! Just a fun project to practice/showcase my skills in React/Redux, Styled-Components and Firebase. 
+    A headless e-commerce application built using Typescript and Next.js. It is tied into a Shopify development store using the Storefront API. This dev store also features custom and private Shopify applications which can be viewed <a href="https://github.com/mplumer/product_manager">Here</a>
     <br />
-    <a href="https://github.com/mplumer/disney-plus-clone"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mplumer/shopify-next-typescript"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://not-disney-plus.web.app/">View Demo</a>
+    <a href="https://shopify-next-typescript.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/mplumer/disney-plus-clone/issues">Report Bug</a>
+    <a href="https://github.com/mplumer/shopify-next-typescript/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mplumer/disney-plus-clone/issues">Request Feature</a>
+    <a href="https://github.com/mplumer/shopify-next-typescript/issues">Request Feature</a>
   </p>
 </p>
 
